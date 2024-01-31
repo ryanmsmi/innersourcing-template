@@ -2,11 +2,11 @@
 
 ## Description
 
-blah blah blah. 
+This is a mock description of an innersourcing project
 
 ## Team Lead 
 
-Team Lead
+Name
 
 ## Team Contact Information
 
@@ -14,8 +14,8 @@ Team slack link
 
 ## Relevent Documentation
 
-confluence page 1
-confluence page 2
+* confluence page 1
+* confluence page 2
 
 ## Main Features
 * Feature 1
@@ -26,5 +26,7 @@ confluence page 2
 Tags listed here
 
 ## Technologies Used
+* Technology 1
+* Technology 2
 
 ## Insert other relevent information here
